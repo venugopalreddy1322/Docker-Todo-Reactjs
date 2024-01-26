@@ -1,7 +1,7 @@
 # React Todo App
 # Source-code from Github
 # Containarization: 
-   Multi-stage-build
+   Multi-stage-Docker-build
    .dockerignore
 
 
